@@ -1,0 +1,7 @@
+.cal-but div>button{
+    margin-inline:auto;
+    display:block;
+    width:100%;
+    padding:8px;
+    border-radius:10px;
+}
